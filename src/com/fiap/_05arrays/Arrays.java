@@ -1,4 +1,4 @@
-package com.fiap.fundamentos;
+package com.fiap._05arrays;
 
 public class Arrays {
 	private int maior;

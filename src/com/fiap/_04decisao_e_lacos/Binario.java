@@ -1,4 +1,4 @@
-package com.fiap.fundamentos;
+package com.fiap._04decisao_e_lacos;
 
 public class Binario {
 

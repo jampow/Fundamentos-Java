@@ -1,4 +1,4 @@
-package com.fiap.fundamentos;
+package com.fiap._02conversao;
 
 public class Conversao {
 

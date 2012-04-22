@@ -1,4 +1,4 @@
-package com.fiap.fundamentos;
+package com.fiap._01classe;
 
 import java.math.BigDecimal;
 
