@@ -10,7 +10,7 @@ public class Filho extends Pai{
 
 	public static void main(String[] args) {
 
-		Filho filho = new Filho("Mensagem de teste");
+		new Filho("Mensagem de teste");
 	}
 
 }
