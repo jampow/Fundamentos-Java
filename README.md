@@ -11,3 +11,4 @@ Aula de fundamentos
 7. [Sobrecarga](https://github.com/jampow/Fundamentos-Java/blob/master/src/com/fiap/_07sobrecarga/Sobrecarga.java)(pg. 43/sl. 85)
 8. [Construtor](https://github.com/jampow/Fundamentos-Java/blob/master/src/com/fiap/_08construtor)(pg. 44/sl. 88)
 9. [Igualdade de objetos](https://github.com/jampow/Fundamentos-Java/blob/master/src/com/fiap/_09igualdade_de_objetos)(pg. 54/sl. 107)
+10. [Passagem de parâmetros](https://github.com/jampow/Fundamentos-Java/blob/master/src/com/fiap/_10passagem_de_parametros)(pg. 55/sl. 109)
