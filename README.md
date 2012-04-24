@@ -12,3 +12,4 @@ Aula de fundamentos
 8. [Construtor](https://github.com/jampow/Fundamentos-Java/blob/master/src/com/fiap/_08construtor)(pg. 44/sl. 88)
 9. [Igualdade de objetos](https://github.com/jampow/Fundamentos-Java/blob/master/src/com/fiap/_09igualdade_de_objetos/Caracteres.java)(pg. 54/sl. 107)
 10. [Passagem de parâmetros](https://github.com/jampow/Fundamentos-Java/blob/master/src/com/fiap/_10passagem_de_parametros/Multiplicador.java)(pg. 55/sl. 109)
+11. [Exceções](https://github.com/jampow/Fundamentos-Java/blob/master/src/com/fiap/_11exceptions/FileUtil.java)(pg. 63/sl. 125)
